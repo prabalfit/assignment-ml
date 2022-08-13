@@ -7,6 +7,7 @@ The assignment is to create a machine learning model for counting repetitions of
 ## Input
 
 MP4 video (You can select any basic exercise like squat, plank or pushups)
+[sample video](https://www.youtube.com/watch?v=xoCKHx8Yyj4)
 
 ## Output
 
