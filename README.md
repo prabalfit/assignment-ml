@@ -27,3 +27,7 @@ Movenet and tensorflowjs from Google
 Javascript
 
 _You are free to utilize internet and come up with a solution in a short span of time._
+
+## Solution
+
+You can run the site by using the Live Server Extension and then by cliking Go Live button in the bottom right corner.

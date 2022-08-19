@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: inline-block;
+    margin:auto;
+    position:relative;
+    top: 200px;
+    left:700px;
+    padding-left:calc(50vw - 665px);
+  }
+  main{
+    display: inline-block;
+  }
+  video{
+    display:inline-block;
+    position:relative;
+    top: 200px;;
+    left:-700px;
+    padding-left: 25px;
+
+  }
